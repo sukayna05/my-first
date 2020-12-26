@@ -1,0 +1,32 @@
+p{
+    color: chocolate;
+    background-color: bisque;
+    font-size: 25px;
+}
+h1{
+    color: #1d8241;   
+    background-color: cyan;
+}
+h3{
+    color:rgb(63, 112, 187);
+    background-color:#e9c191 ;
+    font-size: 15px;
+
+}
+
+li{
+font-size: 15px;
+
+}
+
+a{
+    font-size: 13px;
+}
+body{
+    color:rgb(172, 46, 109);
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(245, 233, 219) ;
+background-image: url(https://pdxinc.com/wp-content/uploads/iStock-1139879730.jpg);
+
+}
